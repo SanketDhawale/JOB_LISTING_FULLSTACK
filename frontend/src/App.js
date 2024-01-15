@@ -6,7 +6,7 @@ import { Toaster } from 'react-hot-toast';
 import Home from './components/Home';
 import JobPage from './components/JobPage';
 
-export const server = "http://localhost:4000/api/v1/user"
+export const server = "https://job-listing-fullstack.vercel.app/"
 
 function App() {
   return (
